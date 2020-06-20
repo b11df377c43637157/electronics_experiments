@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name ldo)(type Legacy)(uri ${KIPRJMOD}/ldo.lib)(options "")(descr ""))
+  (lib (name ads794x)(type Legacy)(uri ${KIPRJMOD}/ads794x.lib)(options "")(descr ""))
+  (lib (name ina190)(type Legacy)(uri ${KIPRJMOD}/ina190.lib)(options "")(descr ""))
+  (lib (name tps22925)(type Legacy)(uri ${KIPRJMOD}/tps22925.lib)(options "")(descr ""))
+  (lib (name tps29990)(type Legacy)(uri ${KIPRJMOD}/tps29990.lib)(options "")(descr ""))
+  (lib (name ap7370)(type Legacy)(uri ${KIPRJMOD}/ap7370.lib)(options "")(descr ""))
+)
